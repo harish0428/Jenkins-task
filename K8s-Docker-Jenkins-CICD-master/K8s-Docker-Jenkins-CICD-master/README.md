@@ -3,5 +3,5 @@
 ##############################################################################
 # Use the Jenkinsfile as CI/CD Pipeline
 ##############################################################################
-Hai Checking git plugin for polling
+Hello Checking git plugin for polling
 
